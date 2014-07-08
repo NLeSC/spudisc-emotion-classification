@@ -1,0 +1,42 @@
+T1	Surprise 0 12	Breathtaking
+A1	Level T1 A
+T2	Sadness 17 30	heartbreaking
+A2	Level T2 A
+T3	Sadness 2509 2522	heartbreaking
+A3	Level T3 A
+T4	Love 799 806	Awesome
+A4	Level T4 A
+T5	Sadness 829 838	painfully
+A5	Level T5 A
+T6	Surprise 1390 1402	breathtaking
+A6	Level T6 A
+T7	Love 1815 1823	inspired
+A7	Level T7 A
+T8	Sadness 1841 1852	heartbroken
+A8	Level T8 A
+T9	Sadness 2159 2166	tragedy
+A9	Level T9 A
+T11	Anger 2668 2685	cuts itself short
+A11	Level T11 A
+T13	Sadness 2721 2733	shed at tear
+A13	Level T13 F
+T14	Interest 2874 2889	haunting beauty
+A14	Level T14 A
+T16	Surprise 3750 3761	astonishing
+A16	Level T16 A
+A17	Direct T16
+T17	Love 3997 4015	thirsting for more
+A18	Level T17 A
+T18	Love 4232 4243	magnificent
+A19	Level T18 A
+T19	Love 4292 4301	favourite
+A20	Level T19 A
+T10	Joy 4153 4162	Uplifting
+A10	Level T10 F
+T12	Sadness 4167 4179	tear-jerking
+A12	Level T12 F
+T15	Surprise 4181 4194	awe-inspiring
+A15	Direct T15
+A21	Level T15 F
+T20	Sadness 4199 4211	heartrending
+A22	Level T20 F

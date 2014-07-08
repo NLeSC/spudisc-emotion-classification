@@ -1,0 +1,24 @@
+T1	Disgust-Contempt 0 5	Sicko
+A1	Level T1 A
+T2	Joy 13 16	Go!
+A2	Level T2 A
+T3	Joy 670 673	Go!
+A3	Level T3 A
+T4	Disgust-Contempt 20 25	sicko
+A4	Level T4 A
+T5	Disgust-Contempt 38 47	nastiness
+A5	Level T5 A
+T6	Surprise 72 81	weirdness
+A6	Level T6 A
+T7	Love 97 154	any true horror fan worth their salt needs to seek it out
+A7	Level T7 A
+T8	Love 97 154	any true horror fan worth their salt needs to seek it out
+A8	Level T8 F
+T9	Disgust-Contempt 333 348	ugliness ensues
+A9	Level T9 A
+T10	Surprise 397 416	really bizarre plot
+A10	Level T10 A
+T11	Fear 384 390	scares
+A11	Level T11 F
+T12	Love 639 668	People want to see this stuff
+A12	Level T12 A

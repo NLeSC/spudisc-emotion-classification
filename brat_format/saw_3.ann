@@ -1,0 +1,29 @@
+T1	Love 0 9	Well made
+A1	Level T1 A
+T2	Love 27 40	two thumbs up
+A2	Level T2 A
+T3	Joy 284 292	exciting
+A3	Level T3 A
+A4	Direct T3
+T4	Joy 294 303	thrilling
+A5	Level T4 A
+A6	Direct T4
+T5	Joy 312 332	overall entertaining
+A7	Level T5 A
+A8	Direct T5
+T6	Disgust-Contempt 351 381	delivered the necessary chills
+A9	Level T6 A
+T7	Interest 411 429	awake, and engaged
+A10	Level T7 A
+T8	Love 443 463	enormous achievement
+A11	Level T8 A
+T9	Love 540 553	well-deserved
+A12	Level T9 A
+T10	Surprise 571 601	without the necessary clichés.
+A13	Level T10 A
+T11	Love 663 712	full potential of its enormity will not be missed
+A14	Level T11 A
+T12	Fear 613 654	not too scary that it becomes unwatchable
+A15	Level T12 F
+T13	Love 725 738	two thumbs uo
+A16	Level T13 A

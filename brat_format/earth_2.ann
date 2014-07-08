@@ -1,0 +1,31 @@
+T1	Love 2 13	masterpiece
+A1	Level T1 A
+T2	Surprise 39 50	astonishing
+A2	Level T2 A
+A3	Direct T2
+T3	Love 136 150	something else
+A4	Level T3 A
+T4	Love 330 339	unmatched
+A5	Level T4 A
+T5	Joy 350 355	funny
+A6	Level T5 F
+T6	Fear 357 362	tense
+A7	Level T6 F
+A8	Direct T6
+T7	Sadness 367 370	sad
+A9	Level T7 F
+A10	Direct T7
+T8	Joy 388 393	laugh
+A11	Level T8 F
+T9	Sadness 411 414	cry
+A12	Level T9 F
+T10	Sadness 486 489	cry
+A13	Level T10 F
+T11	Surprise 461 477	first movie that
+A14	Level T11 A
+T12	Surprise 551 566	come to realise
+A15	Level T12 A
+T13	Love 734 743	wonderful
+A16	Level T13 A
+T15	Love 860 865	10/10
+A18	Level T15 A

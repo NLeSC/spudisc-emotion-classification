@@ -1,0 +1,31 @@
+T1	Surprise 18 24	Seldom
+A1	Level T1 A
+T2	Surprise 1090 1100	astounding
+A2	Level T2 A
+A3	Direct T2
+T3	Fear 1118 1128	disturbing
+A4	Level T3 A
+A5	Direct T3
+T4	Surprise 1717 1727	surprising
+A6	Level T4 F
+A7	Direct T4
+T5	Surprise 2476 2486	surprising
+A8	Level T5 F
+A9	Direct T5
+T6	Interest 2203 2211	gripping
+A10	Level T6 A
+T7	Interest 2270 2278	interest
+A11	Level T7 A
+A12	Direct T7
+T8	Surprise 2476 2488	surprisingly
+A13	Level T8 A
+A14	Direct T8
+T9	Interest 2615 2626	suspenseful
+A15	Level T9 F
+A16	Direct T9
+T10	Love 2643 2648	tight
+A17	Level T10 A
+T11	Love 2764 2777	solid picture
+A18	Level T11 A
+T12	Love 2848 2857	perfectly
+A19	Level T12 A

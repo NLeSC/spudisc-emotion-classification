@@ -1,0 +1,59 @@
+T1	Love 24 34	best movie
+A1	Level T1 A
+T2	Love 62 105	don't think I have ever seen a better movie
+A2	Level T2 A
+T3	Love 239 258	just takes the cake
+A3	Level T3 A
+T4	Surprise 282 294	unbelievable
+A4	Level T4 A
+T5	Love 306 319	most talented
+A5	Level T5 A
+T6	Love 382 392	phenomenal
+A6	Level T6 A
+T7	Sadness 619 627	dramatic
+A7	Level T7 A
+T8	Interest 629 639	intriguing
+A8	Level T8 A
+A9	Direct T8
+T9	Love 645 653	powerful
+A10	Level T9 A
+T10	Love 668 674	moving
+A11	Level T10 A
+A12	Direct T10
+T11	Sadness 679 688	emotional
+A13	Level T11 A
+T12	Fear 700 705	scary
+A14	Level T12 A
+A15	Direct T12
+T13	Surprise 845 867	answers many questions
+A16	Level T13 A
+T14	Interest 978 993	left open-ended
+A17	Level T14 A
+T15	Interest 1086 1107	extremely captivating
+A18	Level T15 A
+A19	Direct T15
+T16	Interest 1086 1107	extremely captivating
+A20	Level T16 F
+A21	Direct T16
+T17	Love 1169 1246	if Edward Norton does not win best actor this year, I will go absolutely nuts
+A22	Level T17 A
+T18	Surprise 1418 1428	astounding
+A23	Level T18 A
+A24	Direct T18
+T19	Surprise 1469 1476	stunned
+A25	Level T19 A
+A26	Direct T19
+T20	Love 1541 1645	I don't think I will ever have the benefit of seeing another movie as good as this one as long as I live
+A27	Level T20 A
+T21	Surprise 1469 1476	stunned
+A28	Level T21 F
+A29	Direct T21
+T22	Love 1925 1930	an A+
+A30	Level T22 A
+T23	Love 282 294	unbelievable
+A31	Level T23 A
+T24	Interest 443 451	convince
+A32	Level T24 A
+T25	Fear 587 597	horrifying
+A33	Direct T25
+A34	Level T25 F

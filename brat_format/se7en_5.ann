@@ -1,0 +1,128 @@
+T1	Fear 9 19	disturbing
+A1	Level T1 A
+A2	Direct T1
+T2	Love 34 61	will stay with you for ever
+A3	Level T2 A
+T3	Fear 9 19	disturbing
+A4	Level T3 F
+A5	Direct T3
+T4	Love 34 61	will stay with you for ever
+A6	Level T4 F
+T5	Love 106 110	good
+A7	Level T5 A
+T6	Love 535 539	good
+A8	Level T6 A
+T7	Love 1709 1713	good
+A9	Level T7 A
+T8	Fear 120 128	chilling
+A10	Level T8 A
+A11	Direct T8
+T9	Fear 347 355	chilling
+A12	Level T9 A
+A13	Direct T9
+T10	Fear 662 670	chilling
+A14	Level T10 A
+A15	Direct T10
+T11	Fear 1196 1204	chilling
+A16	Level T11 A
+A17	Direct T11
+T12	Fear 1245 1253	chilling
+A18	Level T12 A
+A19	Direct T12
+T13	Fear 1829 1837	chilling
+A20	Level T13 A
+A21	Direct T13
+T14	Surprise 234 240	unique
+A22	Level T14 A
+T15	Sadness 434 444	depressing
+A23	Level T15 A
+A24	Direct T15
+T16	Sadness 434 444	depressing
+A25	Level T16 F
+A26	Direct T16
+T17	Love 106 110	good
+A27	Level T17 A
+T18	Love 535 539	good
+A28	Level T18 A
+T19	Love 1709 1713	good
+A29	Level T19 A
+T20	Fear 120 128	chilling
+A30	Level T20 A
+A31	Direct T20
+T21	Fear 347 355	chilling
+A32	Level T21 A
+A33	Direct T21
+T22	Fear 662 670	chilling
+A34	Level T22 A
+A35	Direct T22
+T23	Fear 1196 1204	chilling
+A36	Level T23 A
+A37	Direct T23
+T24	Fear 1245 1253	chilling
+A38	Level T24 A
+A39	Direct T24
+T25	Fear 1829 1837	chilling
+A40	Level T25 A
+A41	Direct T25
+T26	Love 1155 1162	success
+A42	Level T26 A
+T27	Fear 1191 1204	bone chilling
+A43	Level T27 A
+A44	Direct T27
+T28	Love 1231 1240	legendary
+A45	Level T28 A
+T29	Love 1044 1049	great
+A46	Level T29 A
+T30	Love 1403 1408	great
+A47	Level T30 A
+T31	Fear 1494 1525	gross, sickening and horrifying
+A48	Level T31 A
+A49	Direct T31
+T32	Fear 1556 1569	no kids stuff
+A50	Level T32 A
+A51	Direct T32
+T33	Fear 1501 1510	sickening
+A52	Level T33 A
+T34	Fear 1602 1611	sickening
+A53	Level T34 A
+T35	Love 1771 1792	beauty and profession
+A54	Level T35 A
+T36	Fear 120 128	chilling
+A55	Level T36 A
+A56	Direct T36
+T37	Fear 347 355	chilling
+A57	Level T37 A
+A58	Direct T37
+T38	Fear 662 670	chilling
+A59	Level T38 A
+A60	Direct T38
+T39	Fear 1196 1204	chilling
+A61	Level T39 A
+A62	Direct T39
+T40	Fear 1245 1253	chilling
+A63	Level T40 A
+A64	Direct T40
+T41	Fear 1829 1837	chilling
+A65	Level T41 A
+A66	Direct T41
+T42	Fear 120 128	chilling
+A67	Level T42 F
+A68	Direct T42
+T43	Fear 347 355	chilling
+A69	Level T43 F
+A70	Direct T43
+T44	Fear 662 670	chilling
+A71	Level T44 F
+A72	Direct T44
+T45	Fear 1196 1204	chilling
+A73	Level T45 F
+A74	Direct T45
+T46	Fear 1245 1253	chilling
+A75	Level T46 F
+A76	Direct T46
+T47	Fear 1829 1837	chilling
+A77	Level T47 F
+A78	Direct T47
+T48	Love 1936 1944	must see
+A79	Level T48 A
+A80	Direct T48

@@ -1,0 +1,40 @@
+T1	Interest 2 11	Beautiful
+A1	Level T1 A
+A2	Direct T1
+T2	Interest 2 11	Beautiful
+A3	Level T2 F
+A4	Direct T2
+T3	Joy 166 173	so glad
+A5	Level T3 A
+A6	Direct T3
+T4	Interest 214 223	beautiful
+A7	Level T4 A
+A8	Direct T4
+T5	Love 228 236	romantic
+A9	Level T5 A
+A10	Direct T5
+T6	Surprise 343 355	breathtaking
+A11	Level T6 A
+A12	Direct T6
+T7	Interest 502 520	they are wonderful
+A13	Level T7 F
+A14	Direct T7
+T8	Love 538 570	fall in love with the characters
+A15	Level T8 F
+A16	Direct T8
+T9	Interest 575 631	you want to follow every step of their doomed love story
+A17	Level T9 F
+T10	Love 650 681	greatest love stories ever told
+A18	Level T10 A
+T11	Surprise 712 725	unbelievable!
+A19	Level T11 A
+A20	Direct T11
+T12	Surprise 712 725	unbelievable!
+A21	Level T12 F
+A22	Direct T12
+T13	Joy 751 772	wanting to go back in
+A23	Level T13 A
+T14	Love 811 845	feels like you are reading a diary
+A24	Level T14 A
+T15	Joy 1034 1091	I cannot think of a film more perfect for Valentines Day!
+A25	Level T15 A

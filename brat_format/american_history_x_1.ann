@@ -1,0 +1,27 @@
+T1	Surprise 5 12	amazing
+A1	Level T1 A
+A2	Direct T1
+T3	Fear 260 276	a terrible price
+A4	Level T3 A
+T4	Sadness 282 286	loss
+A5	Level T4 F
+T5	Surprise 322 333	realization
+A6	Level T5 A
+T7	Sadness 486 502	not a pretty one
+A8	Level T7 F
+T8	Interest 628 673	as though you are looking in on someones life
+A9	Level T8 F
+T9	Love 732 742	first rate
+A10	Level T9 A
+T10	Surprise 759 785	wasnt quite as predictable
+A11	Level T10 F
+T11	Fear 833 841	shocking
+A12	Level T11 F
+A13	Direct T11
+T13	Sadness 1220 1269	Hopefully it wont be too late, as it was for him.
+A15	Level T13 F
+T2	Surprise 150 157	stunned
+A3	Direct T2
+A16	Level T2 A
+T6	Surprise 870 891	causes quite a debate
+A7	Level T6 F

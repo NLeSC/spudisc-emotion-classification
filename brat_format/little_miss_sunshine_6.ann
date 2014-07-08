@@ -1,0 +1,32 @@
+T1	Love 0 14	Simply perfect
+A1	Level T1 A
+T2	Love 0 14	Simply perfect
+A2	Level T2 F
+T3	Love 16 65	Do yourself a huge favor and go and see this film
+A3	Level T3 A
+T4	Love 16 65	Do yourself a huge favor and go and see this film
+A4	Level T4 F
+T5	Love 187 201	perfectly cast
+A5	Level T5 A
+T6	Joy 456 463	laughed
+A6	Level T6 A
+T7	Joy 476 483	laughed
+A7	Level T7 A
+T8	Love 466 471	cried
+A8	Level T8 A
+T9	Love 492 497	cried
+A9	Level T9 A
+T10	Interest 476 497	laughed until I cried
+A10	Level T10 A
+T11	Joy 456 463	laughed
+A11	Level T11 F
+T12	Joy 476 483	laughed
+A12	Level T12 F
+T13	Sadness 466 471	cried
+A13	Level T13 F
+T14	Sadness 492 497	cried
+A14	Level T14 F
+T15	Interest 476 497	laughed until I cried
+A15	Level T15 F
+T16	Love 827 856	Hope it gets some nominations
+A16	Level T16 A

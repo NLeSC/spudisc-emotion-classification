@@ -1,0 +1,55 @@
+T1	Love 0 11	First-class
+A1	Level T1 A
+T2	Love 205 213	cracking
+A2	Level T2 A
+T3	Surprise 240 250	surprising
+A3	Level T3 A
+A4	Direct T3
+T4	Love 306 324	pays off in spades
+A5	Level T4 A
+T5	Love 341 356	one of the best
+A6	Level T5 A
+T6	Interest 1260 1265	Sharp
+A7	Level T6 A
+T7	Interest 1267 1273	snazzy
+A8	Level T7 A
+T8	Interest 1278 1288	well paced
+A9	Level T8 A
+T9	Love 1461 1488	what more could you ask for
+A10	Level T9 A
+T10	Love 1819 1853	feels much more like an actual spy
+A11	Level T10 A
+T11	Love 2068 2081	well produced
+A12	Level T11 A
+T12	Joy 2050 2058	exciting
+A13	Level T12 F
+T13	Love 2238 2249	first-class
+A14	Level T13 A
+T14	Love 2297 2307	brilliance
+A15	Level T14 A
+T15	Love 2332 2342	first-rate
+A16	Level T15 A
+T16	Fear 2366 2375	intrusive
+A17	Level T16 A
+T17	Anger 2607 2620	stereotypical
+A18	Level T17 A
+T18	Anger 2631 2654	not enough is explained
+A19	Level T18 A
+T19	Fear 2291 2296	tense
+A20	Level T19 F
+A21	Direct T19
+T20	Fear 2815 2820	tense
+A22	Level T20 F
+A23	Direct T20
+T21	Joy 2822 2831	thrilling
+A24	Level T21 F
+A25	Direct T21
+T22	Interest 2836 2846	engrossing
+A26	Level T22 F
+T23	Love 3075 3092	best possible way
+A27	Level T23 A
+T24	Love 3122 3140	highly recommended
+A28	Level T24 A
+T25	Love 3212 3225	mighty praise
+A29	Level T25 A
+A30	Direct T12

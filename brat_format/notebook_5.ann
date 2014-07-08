@@ -1,0 +1,31 @@
+T1	Interest 7 17	beautiful!
+A1	Level T1 A
+A2	Direct T1
+T2	Interest 7 17	beautiful!
+A3	Level T2 F
+A4	Direct T2
+T3	Joy 50 64	enjoyed by all
+A5	Level T3 A
+A6	Direct T3
+T4	Surprise 82 118	not one of those cheesy chick flicks
+A7	Level T4 A
+T5	Interest 148 167	brilliantly written
+A8	Level T5 A
+T6	Interest 168 178	intriguing
+A9	Level T6 A
+A10	Direct T6
+T7	Love 283 310	pulls at your heart strings
+A11	Level T7 A
+T8	Joy 324 339	fabulous quotes
+A12	Level T8 A
+T9	Love 345 364	sentimental moments
+A13	Level T9 A
+A14	Direct T9
+T10	Love 390 415	one of the best I've seen
+A15	Level T10 A
+T11	Interest 417 451	I got to know both main characters
+A16	Level T11 F
+T12	Interest 469 477	relating
+A17	Level T12 F
+T13	Love 586 624	makes us think of what could have been
+A18	Level T13 A

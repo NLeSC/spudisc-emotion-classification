@@ -1,0 +1,31 @@
+T1	Interest 21 37	truly remarkable
+A1	Level T1 A
+A2	Direct T1
+T2	Surprise 198 213	no expectations
+A3	Level T2 A
+T3	Surprise 215 222	However
+A4	Level T3 A
+T4	Interest 237 259	drew me into the story
+A5	Level T4 F
+A6	Direct T4
+T5	Sadness 316 330	kept me crying
+A7	Level T5 F
+A8	Direct T5
+T6	Interest 444 506	felt involved in the situations and the lives of the character
+A9	Level T6 F
+A10	Direct T6
+T7	Sadness 508 533	crying at the sad moments
+A11	Level T7 F
+A12	Direct T7
+T8	Joy 538 549	feeling joy
+A13	Level T8 F
+A14	Direct T8
+T9	Interest 648 690	this movie kept me guessing at the outcome
+A15	Level T9 A
+T10	Surprise 696 712	delivered twists
+A16	Level T10 A
+T11	Interest 756 782	extremely well constructed
+A17	Level T11 A
+T12	Love 787 823	i would give it an eleven out of ten
+A18	Level T12 A
+A19	Direct T12

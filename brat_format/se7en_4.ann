@@ -1,0 +1,50 @@
+T1	Love 7 18	Masterpiece
+A1	Level T1 A
+T2	Fear 30 38	shocking
+A2	Level T2 A
+A3	Direct T2
+T3	Interest 40 51	suspenseful
+A4	Level T3 A
+A5	Direct T3
+T4	Fear 53 63	disturbing
+A6	Level T4 A
+A7	Direct T4
+T5	Love 68 74	clever
+A8	Level T5 A
+T6	Love 449 457	striking
+A9	Level T6 A
+T7	Love 493 502	realistic
+A10	Level T7 A
+T8	Love 1470 1479	realistic
+A11	Level T8 A
+T9	Love 581 592	masterpiece
+A12	Level T9 A
+T10	Fear 749 756	horrors
+A13	Level T10 F
+A14	Direct T10
+T11	Fear 837 859	prey you never have to
+A15	Level T11 F
+T12	Love 912 934	not just a pretty face
+A16	Level T12 A
+T13	Love 1066 1075	darn good
+A17	Level T13 A
+T14	Love 1182 1193	was born to
+A18	Level T14 A
+T15	Love 1249 1257	timeless
+A19	Level T15 A
+T16	Love 1272 1281	memorable
+A20	Level T16 A
+T17	Love 1645 1654	memorable
+A21	Level T17 A
+T18	Fear 1372 1379	shocked
+A22	Level T18 A
+A23	Direct T18
+T19	Love 1384 1400	begging for more
+A24	Level T19 A
+T20	Sadness 1443 1458	harsh realities
+A25	Level T20 F
+T21	Fear 1546 1554	horrific
+A26	Level T21 F
+A27	Direct T21
+T22	Love 1611 1636	We can only prey for more
+A28	Level T22 A

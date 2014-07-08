@@ -1,0 +1,32 @@
+T1	Love 27 37	staggering
+A1	Level T1 A
+T2	Love 249 257	powerful
+A2	Level T2 A
+T3	Love 342 353	so potently
+A3	Level T3 A
+T4	Surprise 440 447	amazing
+A4	Level T4 A
+A5	Direct T4
+T5	Surprise 778 785	amazing
+A6	Level T5 A
+A7	Direct T5
+T6	Love 511 521	flawlessly
+A8	Level T6 A
+T7	Sadness 418 425	painful
+A9	Level T7 F
+A10	Direct T7
+T8	Love 788 797	well done
+A11	Level T8 A
+T9	Love 835 847	high quality
+A13	Level T9 A
+T10	Love 1373 1381	the best
+A14	Level T10 A
+T11	Love 1413 1423	underrated
+A15	Level T11 A
+T12	Love 1498 1560	this movie did not get nearly the recognition that it deserves
+A16	Level T12 A
+T13	Love 1112 1123	wonderfully
+A12	Level T13 A
+T14	Anger 1124 1132	hateable
+A17	Direct T14
+A18	Level T14 F

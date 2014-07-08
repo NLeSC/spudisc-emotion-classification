@@ -1,0 +1,52 @@
+T1	Love 4 26	best thriller in years
+A1	Level T1 A
+T2	Joy 84 114	kept me on the edge of my seat
+A2	Level T2 F
+T3	Interest 178 213	sucks you in and doesn't let you go
+A3	Level T3 F
+T4	Surprise 295 415	in times like these, where people have seen almost everything and can guess any twist during the first half of the movie
+A4	Level T4 A
+T5	Interest 247 255	gripping
+A5	Level T5 F
+T6	Surprise 498 515	set new standards
+A6	Level T6 A
+T7	Fear 590 603	creep you out
+A7	Level T7 F
+A8	Direct T7
+T8	Surprise 608 616	surprise
+A9	Level T8 F
+A10	Direct T8
+T9	Surprise 1872 1880	surprise
+A11	Level T9 F
+A12	Direct T9
+T10	Love 758 805	does a much better job at actually being creepy
+A13	Level T10 A
+T11	Fear 758 805	does a much better job at actually being creepy
+A14	Level T11 F
+T12	Love 817 879	the most gruesome killer the cinema has seen in a loooong time
+A15	Level T12 A
+T13	Fear 817 879	the most gruesome killer the cinema has seen in a loooong time
+A16	Level T13 F
+A17	Direct T13
+T14	Love 932 943	has no peer
+A18	Level T14 A
+T15	Love 1063 1101	does never get anywhere near that trap
+A19	Level T15 A
+T16	Anger 1411 1442	been used too many times by now
+A20	Level T16 A
+T17	Anger 1444 1525	the structure of the script is weird and jumps from one period of time to another
+A21	Level T17 A
+T18	Anger 1527 1567	some characters' lines are a bit clichéd
+A22	Level T18 A
+T19	Surprise 163 171	original
+A23	Level T19 A
+T20	Surprise 1802 1810	original
+A24	Level T20 A
+T21	Surprise 1991 1999	original
+A25	Level T21 A
+T22	Joy 1815 1823	stirring
+A26	Level T22 A
+T23	Surprise 1986 1999	most original
+A27	Level T23 A
+T24	Love 2129 2146	this fine sleeper
+A28	Level T24 A

@@ -1,0 +1,49 @@
+T1	Love 2 16	A masterpiece!
+A1	Level T1 A
+T2	Love 23 60	one of the best film I have ever seen
+A2	Level T2 A
+T3	Fear 293 355	I would have probably been a little bit more traumatized at 14
+A3	Level T3 F
+T4	Love 373 387	exceptional!!!
+A4	Level T4 A
+T5	Interest 388 401	Makes u think
+A5	Level T5 A
+T6	Anger 413 423	frustrated
+A6	Level T6 A
+A7	Direct T6
+T7	Anger 425 447	makes you wanna scream
+A8	Level T7 A
+T8	Sadness 467 470	cry
+A9	Level T8 A
+T9	Interest 388 401	Makes u think
+A10	Level T9 F
+T10	Anger 413 423	frustrated
+A11	Level T10 F
+A12	Direct T10
+T11	Anger 425 447	makes you wanna scream
+A13	Level T11 F
+T12	Sadness 467 470	cry
+A14	Level T12 F
+T13	Love 494 504	phenomenal
+A15	Level T13 A
+T14	Love 692 699	amazing
+A16	Level T14 A
+T15	Love 720 726	moving
+A17	Level T15 A
+A18	Direct T15
+T16	Interest 771 789	real and heartfelt
+A19	Level T16 F
+T17	Love 892 911	absolutely terrific
+A20	Level T17 A
+T18	Surprise 982 1016	stay on my mind for a while now...
+A21	Level T18 A
+T19	Surprise 982 1016	stay on my mind for a while now...
+A22	Level T19 F
+T20	Love 1123 1132	wonderful
+A23	Level T20 A
+T21	Love 1123 1132	wonderful
+A24	Level T21 F
+T22	Love 1233 1250	totally worth it!
+A25	Level T22 A
+T23	Love 1233 1250	totally worth it!
+A26	Level T23 F

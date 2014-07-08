@@ -1,0 +1,57 @@
+T1	Love 7 45	is well crafted and ingeniously clever
+A1	Level T1 A
+T2	Love 2294 2332	is well crafted and ingeniously clever
+A2	Level T2 A
+T3	Love 57 95	one of the greatest films of the 90's"
+A3	Level T3 A
+T4	Love 184 261	one of the most inventive, well-written, and cerebral films in recent history
+A4	Level T4 A
+T5	Interest 383 419	remains tight and focused throughout
+A5	Level T5 A
+T6	Surprise 496 534	resorting to typical Hollywood clichés
+A6	Level T6 A
+T7	Surprise 545 564	uniquely on its own
+A7	Level T7 A
+T8	Interest 627 681	to be drawn in and entertained by the events unfolding
+A8	Level T8 A
+T9	Fear 694 721	uncompromising and shocking
+A9	Level T9 A
+A10	Direct T9
+T10	Surprise 1240 1261	The story is original
+A11	Level T10 A
+T11	Fear 1281 1304	thrilling on all levels
+A12	Level T11 A
+T12	Interest 1362 1412	keeps the audience numerous steps behind its story
+A13	Level T12 A
+T13	Interest 1537 1550	remains fresh
+A14	Level T13 A
+T14	Surprise 1253 1261	original
+A15	Level T14 A
+T15	Surprise 1555 1563	original
+A16	Level T15 A
+T16	Fear 1753 1757	fear
+A17	Level T16 F
+A18	Direct T16
+T17	Fear 1762 1773	uncertainty
+A19	Level T17 F
+T18	Sadness 1871 1925	as much apart of the film as the characters themselves
+A20	Level T18 F
+T19	Surprise 1931 2015	arrive at Se7en's surprise ending without a single clue of it, prior to it occurring
+A21	Level T19 F
+A22	Direct T19
+T20	Surprise 2150 2167	against the grain
+A23	Level T20 A
+T21	Love 2169 2200	A rarity with films so nowadays
+A24	Level T21 A
+T22	Love 2202 2332	Directed brilliantly by David Fincher, and skillfully written by Andrew Kevin Walker, Se7en is well crafted and ingeniously clever
+A25	Level T22 A
+T23	Love 10 45	well crafted and ingeniously clever
+A26	Level T23 A
+T24	Love 2297 2332	well crafted and ingeniously clever
+A27	Level T24 A
+T25	Love 57 94	one of the greatest films of the 90's
+A28	Level T25 A
+T26	Love 2344 2381	one of the greatest films of the 90's
+A29	Level T26 A
+T27	Love 2496 2530	as influential as any film to date
+A30	Level T27 A

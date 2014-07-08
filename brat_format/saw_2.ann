@@ -1,0 +1,34 @@
+T1	Love 2 7	loved
+A1	Level T1 A
+A2	Direct T1
+T2	Love 46 82	makes us believe in the horror genre
+A3	Level T2 A
+T3	Love 90 150	because of such movies we like to see horror/thriller movies
+A4	Level T3 A
+T4	Love 192 237	I wanted to buy the ticket and watch it again
+A5	Level T4 A
+T5	Love 297 313	tightly directed
+A6	Level T5 A
+T6	Interest 284 292	gripping
+A7	Level T6 F
+A8	Direct T6
+T7	Joy 341 354	very exciting
+A9	Level T7 A
+A10	Direct T7
+T8	Joy 341 354	very exciting
+A11	Level T8 F
+A12	Direct T8
+T9	Fear 372 382	goosebumps
+A13	Level T9 F
+T10	Fear 393 449	if you are a faint of heart please do not see this movie
+A14	Level T10 F
+T11	Fear 495 530	will make you jump out of your seat
+A15	Level T11 F
+T12	Love 534 573	just can't wait for the DVD to come out
+A16	Level T12 A
+T13	Love 654 681	have a good time like I did
+A17	Level T13 A
+T14	Love 654 681	have a good time like I did
+A18	Level T14 F
+T15	Surprise 699 716	has a great twist
+A19	Level T15 F

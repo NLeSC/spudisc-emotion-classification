@@ -1,0 +1,108 @@
+T1	Interest 338 363	I already knew the ending
+A1	Level T1 A
+T2	Interest 495 548	I ended up getting wrapped in the story on the screen
+A2	Level T2 F
+T3	Interest 693 714	get lost in the story
+A3	Level T3 A
+A4	Direct T3
+T4	Surprise 818 864	soared past any expectations that I had for it
+A5	Level T4 A
+A6	Direct T4
+T5	Interest 1439 1457	He did a great job
+A7	Level T5 A
+T6	Interest 1485 1495	great cast
+A8	Level T6 A
+T7	Love 1794 1818	brings a great innocence
+A9	Level T7 A
+T8	Interest 2319 2359	gets as wrapped up in the story as we do
+A10	Level T8 F
+A11	Direct T8
+T9	Joy 2441 2462	perfect for this role
+A12	Level T9 A
+T10	Love 2596 2602	cutest
+A13	Level T10 A
+A14	Direct T10
+T11	Love 2596 2602	cutest
+A15	Level T11 F
+A16	Direct T11
+T12	Interest 1278 1282	real
+A17	Level T12 A
+T13	Interest 3060 3064	real
+A18	Level T13 A
+T14	Interest 3321 3325	real
+A19	Level T14 A
+T15	Interest 3358 3362	real
+A20	Level T15 A
+T16	Interest 4517 4521	real
+A21	Level T16 A
+T17	Fear 3524 3543	could spell trouble
+A22	Level T17 F
+T18	Surprise 3961 3977	pure coincidence
+A23	Level T18 F
+T19	Love 1215 1219	love
+A24	Level T19 A
+A25	Direct T19
+T20	Love 2100 2104	love
+A26	Level T20 A
+A27	Direct T20
+T21	Love 2203 2207	love
+A28	Level T21 A
+A29	Direct T21
+T22	Love 3251 3255	love
+A30	Level T22 A
+A31	Direct T22
+T23	Love 4550 4554	love
+A32	Level T23 A
+A33	Direct T23
+T24	Love 4840 4844	love
+A34	Level T24 A
+A35	Direct T24
+T25	Love 4963 4967	love
+A36	Level T25 A
+A37	Direct T25
+T26	Love 5994 5998	love
+A38	Level T26 A
+A39	Direct T26
+T27	Love 6219 6223	love
+A40	Level T27 A
+A41	Direct T27
+T28	Interest 5010 5019	envelopes
+A42	Level T28 F
+A43	Direct T28
+T29	Joy 5224 5238	very enjoyable
+A44	Level T29 A
+A45	Direct T29
+T30	Joy 6048 6062	very enjoyable
+A46	Level T30 A
+A47	Direct T30
+T31	Sadness 5244 5258	very emotional
+A48	Level T31 A
+A49	Direct T31
+T32	Joy 5224 5238	very enjoyable
+A50	Level T32 F
+A51	Direct T32
+T33	Joy 6048 6062	very enjoyable
+A52	Level T33 F
+A53	Direct T33
+T34	Sadness 5244 5258	very emotional
+A54	Level T34 F
+A55	Direct T34
+T35	Joy 5440 5455	great chemistry
+A56	Level T35 F
+T36	Surprise 5508 5515	amazing
+A57	Level T36 A
+A58	Direct T36
+T37	Love 5618 5631	start to care
+A59	Level T37 F
+A60	Direct T37
+T38	Love 5672 5682	truly care
+A61	Level T38 F
+A62	Direct T38
+T39	Interest 5834 5858	become part of the story
+A63	Level T39 F
+T40	Interest 5864 5906	want them to act or say something specific
+A64	Level T40 F
+T41	Joy 6066 6099	highly recommend seeing this film
+A65	Level T41 A
+T42	Joy 6168 6229	it has everything that is needed for a truly great love story
+A66	Level T42 A

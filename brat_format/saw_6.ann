@@ -1,0 +1,27 @@
+T1	Love 0 4	Tops
+A1	Level T1 A
+T2	Love 9 16	Finally
+A2	Level T2 A
+T3	Fear 61 71	scary bits
+A3	Level T3 F
+A4	Direct T3
+T4	Love 162 166	good
+A5	Level T4 A
+T5	Love 218 222	tops
+A6	Level T5 A
+T6	Love 493 505	great acting
+A7	Level T6 A
+T7	Disgust-Contempt 390 396	cringe
+A8	Level T7 F
+T8	Fear 415 479	I could really "feel" how terrified the characters probably were
+A9	Level T8 F
+T9	Love 680 684	WOW!
+A10	Level T9 A
+T10	Surprise 680 684	WOW!
+A11	Level T10 F
+T11	Love 705 723	icing on the cake!
+A12	Level T11 A
+T12	Surprise 728 736	spun out
+A13	Level T12 A
+T13	Surprise 728 736	spun out
+A14	Level T13 F

@@ -1,0 +1,28 @@
+T2	Love 1785 1794	inspiring
+A2	Level T2 A
+T3	Sadness 38 57	make you feel good.
+A3	Level T3 A
+T4	Love 63 68	loved
+A4	Level T4 A
+A5	Direct T4
+T5	Love 111 123	unbelievable
+A6	Level T5 A
+T6	Love 212 219	PERFECT
+A7	Level T6 A
+T7	Love 283 291	profound
+A8	Level T7 A
+T9	Surprise 368 412	would probably never-ever end up by yourself
+A10	Level T9 A
+T10	Surprise 677 717	left the cinema with a profound question
+A11	Level T10 A
+T11	Sadness 915 921	bitter
+A12	Level T11 F
+T12	Sadness 926 935	powerless
+A13	Level T12 F
+T13	Sadness 1354 1364	depressing
+A14	Level T13 F
+A15	Direct T13
+T14	Love 3 12	inspiring
+A16	Level T14 A
+T1	Sadness 1850 1855	happy
+A1	Level T1 F
