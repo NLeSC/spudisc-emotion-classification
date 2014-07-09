@@ -31,6 +31,13 @@ underscores. Where a sentence received no label, the string ``None`` appears.
 (No label means no emotions assigned by the annotator; all sentences have been
 annotated.)
 
+The files were converted to the final format by::
+
+    python $BRAT/tools/sentencesplit.py < ${review}.txt > ${review}.sentences
+    python sentences_with_tags.py ${review}.sentences
+
+(where ``$BRAT`` is the Brat source directory).
+
 
 Citing
 ------
