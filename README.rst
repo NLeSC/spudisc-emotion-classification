@@ -4,9 +4,10 @@ Movie reviews, annotated for emotion classification
 This repository holds annotated training and test data used in the experiments
 reported on in
 
-    L. Buitinck, J. van Amerongen, E. Tan and M. de Rijke, Multi-emotion
-    detection in user-generated reviews. Proc. European Conference on
-    Information Retrieval (ECIR), 2015.
+    L. Buitinck, J. van Amerongen, E. Tan and M. de Rijke (2015).
+    `Multi-emotion detection in user-generated reviews
+    <http://ilps.science.uva.nl/biblio/multi-emotion-detection-user-generated-reviews>`_.
+    Proc. 37th European Conference on Information Retrieval (ECIR).
 
 The data consists of amateur movie reviews, scraped from IMDB and annotated
 for the project Searching Public Discourse of the University of Amsterdam (UvA)
