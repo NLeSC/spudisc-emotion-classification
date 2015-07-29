@@ -34,9 +34,11 @@ annotated.)
 The files were converted to the final format by::
 
     python $BRAT/tools/sentencesplit.py < ${review}.txt > ${review}.sentences
-    python sentences_with_tags.py ${review}.sentences
+    python sentences_with_tags.py ${review}.sentences > ${review}.senttag
 
 (where ``$BRAT`` is the Brat source directory).
+
+Training/test set splitting is done by ``split_train_test.py``.
 
 
 Citing
